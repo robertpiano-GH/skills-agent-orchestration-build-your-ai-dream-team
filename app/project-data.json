@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Project Atlas",
+      "owner": "Amina Patel",
+      "status": "In progress",
+      "recentActivity": "Design review completed, next sprint planning underway.",
+      "priority": "High"
+    },
+    {
+      "name": "Project Beacon",
+      "owner": "Nicolas Chen",
+      "status": "At risk",
+      "recentActivity": "Client feedback requires scope adjustment.",
+      "priority": "Critical"
+    },
+    {
+      "name": "Project Compass",
+      "owner": "Olivia Grant",
+      "status": "On track",
+      "recentActivity": "Integration tests are passing and deployment is scheduled.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Project Dynamo",
+      "owner": "Sofia Lopez",
+      "status": "Planning",
+      "recentActivity": "Kickoff completed and team alignment is confirmed.",
+      "priority": "Low"
+    }
+  ]
+}
